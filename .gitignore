@@ -1,0 +1,5 @@
+/users/migrations/00*.*
+/finance/migrations/00*.*
+/api/migrations/00*.*
+/poetry.lock
+/db.sqlite3
